@@ -1,0 +1,14 @@
+{
+  "name": "github-electon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hatajoe",
+  "license": "MIT",
+  "dependencies": {
+    "octonode": "^0.7.4"
+  }
+}
