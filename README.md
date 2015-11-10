@@ -1,4 +1,4 @@
-# github-electron
+# github-notification-electron
 
 ```
 $ vi ~/.github-electron
